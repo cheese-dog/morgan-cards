@@ -1,4 +1,4 @@
-# morgan-cards-foundry
+# morgan-cards
 Module to add playing card support to Foundry VTT
 
 I started developing this module because I was fed up with the way every other module does card support. My proposal for a minimum viable product for this module is:
