@@ -14,4 +14,5 @@ More advanced features that will be tackled after the MVP are:
 - [ ] Support for arbitrary decks (importable as individual cards or multiple at once)
 - [ ] Programmable functions for decks and hands (draws to specific destinations)
 - [ ] An option to have cards as objects that can be placed on the grid (with zoom in on mouseover)
+- [ ] An option to have an entire extra canvas for playing with cards (is this viable?)
 - [ ] An option for the initiative tracker to use cards instead of dice in Savage Worlds
