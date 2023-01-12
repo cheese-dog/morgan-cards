@@ -1,18 +1,18 @@
 {
   "id": "morgan-cards",
   "title": "Morgan Cards",
-  "description": "",
+  "description": "A more intuitive interface for cards.",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-    "minimum": 10,
+    "minimum": 9,
     "verified": 10,
     "maximum": 11
   },
   "authors": [
     {
-      "name": "Morgan Chessman (aka cheese-dog)",
+      "name": "cheese-dog (aka Morgan)",
       "url": "https://github.com/cheese-dog/",
       "discord": "Cheese_Dog#9610"
     }
